@@ -234,22 +234,6 @@ You can help by:
 
 For contributions, fork the repository, create a feature branch, make your changes, and submit a pull request describing what you changed.
 
-## 📚 Resources
-
-* [Streamlit Documentation](https://docs.streamlit.io/)
-* [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/)
-* [Microsoft ResNet-50 Model](https://huggingface.co/microsoft/resnet-50)
-* [PyTorch Documentation](https://pytorch.org/docs/)
-* [Pillow Documentation](https://pillow.readthedocs.io/)
-* [Hacktoberfest](https://hacktoberfest.com/)
-
-## 📄 License
-
-This project is intended to use the MIT License. See the `LICENSE` file for the actual license terms once the file has been added to the repository.
-
-## 👨‍💻 Author
-
-Built with ❤️ for the Hacktoberfest 2026 "Touch Grass" Challenge.
 
 ## ⭐ Support
 
@@ -260,3 +244,16 @@ If you find this project useful, consider giving the repository a star on GitHub
 **Made for the "Touch Grass" Challenge** 🌿
 
 Get off your screen and explore the amazing plants around you!
+
+
+---
+
+## 👨‍💻 Author
+
+**Reethu**  
+
+GitHub: https://github.com/ReeShenoy
+
+---
+
+Built with ❤️ for the Hacktoberfest 2026 "Touch Grass" Challenge.
